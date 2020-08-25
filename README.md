@@ -1,2 +1,2 @@
-# Machine-Learning
+# Machine-Learning(Regression Model)
 Machine Learning Model
